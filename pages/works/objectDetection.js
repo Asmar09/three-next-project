@@ -1,13 +1,10 @@
 import {
-  Box,
   Container,
   Badge,
   Link,
   List,
   ListItem,
-  UnorderedList,
-  Heading,
-  Center
+  UnorderedList
 } from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, WorkImage, Meta } from '../../components/work'
